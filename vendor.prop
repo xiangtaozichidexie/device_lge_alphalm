@@ -1,0 +1,6 @@
+#
+# vendor props for lge alphalm
+#
+
+# LGE Misc
+ro.vendor.lge.swversion=G82040a
